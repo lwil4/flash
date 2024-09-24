@@ -1,21 +1,21 @@
 criaCartao(
-    'Física,
+    'Física',
     'Como se calcula a velocidade média?',
     'Pode-se utilizar a fórmula V=🔺️S/🔺️t para o cálculo. ')
     criaCartao(
-    'Física,
+    'Física',
     'Como se calcula a Frequência de uma onda?',
     'Pode-se utilizar a fórmula f= 1/T para o cálculo')
     criaCartao(
-    'Física,
+    'Física',
     'Como se calcula a velocidade de uma onda?',
     'Pode-se utilizar a fórmula v= λ.f para o cálculo')
     criaCartao(
-    'Física,
+    'Física',
     'Como se calcula a quantidade de movimento?',
     'Pode-se utilizar a fórmula Q=m.v para o cálculo')
     criaCartao(
-    'Física,
+    'Física',
     'Como se calcula um Impulso?',
     'Pode-se utilizar a fórmula I= F.🔺️t para o cálculo')
     criaCartao(
@@ -25,7 +25,7 @@ criaCartao(
     criaCartao(
     'Matemática',
     'Como se calcula o Delta (🔺️)?',
-    'Pode-se utilizar a fórmula 🔺️= b² - 4.a.c para o cálculo')
+    'Pode-se utilizar a fórmula 🔺️ = b² - 4.a.c para o cálculo')
     criaCartao(
     'Matemática',
     'Como se calcula a área de um retângulo?',
