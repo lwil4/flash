@@ -6,3 +6,8 @@
     --preto: #000000;
     --destaque: #00FF7F;
 }
+
+body{
+    background-color: var(--fundo);
+    margin: 0;
+}
