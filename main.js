@@ -18,6 +18,6 @@ function criaCartao (categoria, pergunta, resposta){
         respostaVisivel = !respostaVisivel;
         cartao.classList.toggle('active', respostaVisivel);
     }
-    cartao.addEventlistener('click', viraCartao);
+    cartao.addEventListener('click', viraCartao);
     container.appendChild(cartao);
 }
