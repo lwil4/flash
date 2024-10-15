@@ -48,4 +48,5 @@ cartao-resposta{
     padding: 2rem;
     text-align: center;
     background-color: var(--resposta);
+    display: none;
 }
