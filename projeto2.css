@@ -1,0 +1,27 @@
+:root{
+    --preto: #000000;
+    --branco: #ffffff;
+    --pergunta: #2E8B57;
+    --resposta: #008B8B;
+}
+
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
+
+footer{
+    background-color: var(--preto);
+    color: var(--branco);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
