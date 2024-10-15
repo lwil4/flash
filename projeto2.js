@@ -19,9 +19,9 @@ function criaCartao (categoria, pergunta, resposta){
 function showAnswer(card){
     const answer = document.querySelector('.cartao-resposta');
     if (answer.style.display === 'none'){
-        answer.style.display === 'block';
+        answer.style.display = 'block';
     }
     else{
-        answer.style.display ==='none';
+        answer.style.display ='none';
     }
 }
