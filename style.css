@@ -12,6 +12,16 @@ body{
     margin: 0;
 }
 
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+}
+
+header a{
+    color: var(--branco);
+}
+
 footer{
     background-color: var(--preto);
     color: var(--branco);
