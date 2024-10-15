@@ -31,3 +31,10 @@ footer{
     gap: 2rem;
     padding: 2rem;
 }
+
+.cartao-conteudo{
+    padding: 2rem;
+    border: 2px solid var(--preto);
+    background-color: var(--pergunta);
+    border-radius: 5px;
+}
